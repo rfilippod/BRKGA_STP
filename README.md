@@ -20,7 +20,7 @@ O BRKGA é uma abordagem eficaz para resolver o School Timetabling Problem. Ele 
 
 ## Instalação e Uso
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/brkga-timetabling.git`
+1. Clone este repositório: `git clone https://github.com/seu-usuario/BRKGA_STP.git`
 2. Navegue até o diretório do projeto: `cd brkga-timetabling`
 3. Instale as dependências: `pip install -r requirements.txt`
 4. Execute o algoritmo BRKGA: `python main.py`
